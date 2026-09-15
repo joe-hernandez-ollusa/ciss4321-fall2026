@@ -1,0 +1,5 @@
+date,amount,category,description,paid_by
+2026-03-01,42.50,food,Team lunch,usr_01
+2026-03-02,15.00,transport,Subway pass,usr_02
+2026-03-05,120.00,utilities,Internet bill,usr_01
+2026-03-10,8.75,food,Coffee with client,usr_03
